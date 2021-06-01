@@ -17,3 +17,4 @@ trucker/src/main/reactjs/node/node_modules
 /.gradle/configuration-cache/gc.properties
 /.gradle/vcs-1/gc.propertiestarget/
 target/
+.idea/
